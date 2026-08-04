@@ -261,3 +261,7 @@ Two things that will cost you an afternoon if you miss them:
 - `time.sleep(5)` dominates the unoptimised init and exaggerates the gap relative to a
   typical production function. The mechanism it illustrates — everything at global scope runs
   during INIT, and INIT is billed, is what generalises.
+
+*Built and measured by Anu Agarwal — [linkedin.com/in/agarwalanu](https://www.linkedin.com/in/agarwalanu)*
+
+<img width="732" height="56" alt="image" src="https://github.com/user-attachments/assets/6d6d2775-4fcf-45af-a872-aa3b19b7db72" />
